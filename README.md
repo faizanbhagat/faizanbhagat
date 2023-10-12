@@ -17,4 +17,4 @@
 - 💻 Programming Languages: C/C++, Java, Python, Typescript
 - 🌐 Web Development: HTML, CSS, React/Next.js
 - 📊 Database Familiarity: SQL, MongoDB
-- 🚀 Other Interests: Soccer, Rubik's Cubes, Piano
+- 🚀 Personal Interests: Soccer, Rubik's Cubes, Piano
