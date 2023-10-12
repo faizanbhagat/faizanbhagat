@@ -1,16 +1,22 @@
 ### Hi there, I'm Faizan! 👋
 
-<!--
+About Me
+
+👨‍💻 Experience Current Instructional Aide for EECS280 @ UM, Software Engineering Intern @ SkySpecs - Summer 2023, Strategy @ Datavine - Summer 2022
+🎓 Education: Junior studying Computer Science
+📍 Location: University of Michigan - Ann Arbor
+📚 Courses:
+EECS 281 - Data Structures & Algorithms
+EECS 484 - Database Management Systems
+EECS 485 - Web Systems
+EECS 370 - Computer Architecture
+EECS 376 - Computer Science Theory
+
+Interests and Skills
+
+💻 Programming Languages: C/C++, Java, Python, Typescript
+🌐 Web Development: HTML, CSS, React/Next.js
+📊 Database Familiarity: SQL, MongoDB
+🚀 Other Interests: Soccer, Rubik's Cubes, Piano
+
 **faizanbhagat/faizanbhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
