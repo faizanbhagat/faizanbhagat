@@ -2,13 +2,10 @@
 
 About Me
 
-👨‍💻 Experience Current Instructional Aide for EECS280 @ UM, Software Engineering Intern @ SkySpecs - Summer 2023, Strategy @ Datavine - Summer 2022
-
-🎓 Education: Junior studying Computer Science
-
-📍 Location: University of Michigan - Ann Arbor
-
-📚 Courses:
+- 👨‍💻 Experience Current Instructional Aide for EECS280 @ UM, Software Engineering Intern @ SkySpecs - Summer 2023, Strategy @ Datavine - Summer 2022
+- 🎓 Education: Junior studying Computer Science
+- 📍 Location: University of Michigan - Ann Arbor
+- 📚 Courses:
 EECS 281 - Data Structures & Algorithms
 EECS 484 - Database Management Systems
 EECS 485 - Web Systems
