@@ -1,6 +1,6 @@
-### Hi there, I'm Faizan! 👋
+## Hi there, I'm Faizan! 👋
 
-## About Me
+### About Me
 
 - 👨‍💻 Experience: Current Instructional Aide for EECS280 @ UM, Software Engineering Intern @ SkySpecs - Summer 2023, Strategy @ Datavine - Summer 2022
 - 🎓 Education: Junior studying Computer Science
@@ -12,7 +12,7 @@
   - EECS 370 - Computer Architecture
   - EECS 376 - Computer Science Theory
 
-## Interests and Skills
+### Interests and Skills
 
 - 💻 Programming Languages: C/C++, Java, Python, Typescript
 - 🌐 Web Development: HTML, CSS, React/Next.js
