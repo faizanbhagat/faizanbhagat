@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 👨‍💻 Experience: Current Instructional Aide for EECS280 @ UM, Software Engineering @ SkySpecs - Summer 2023, Strategy @ Datavine - Summer 2022
+- 👨‍💻 Experience: Current Instructional Aide for EECS280 @ UM, Software Engineering @ SkySpecs - Summer 2023, Technology @ Datavine - Summer 2022
 - 🎓 Education: Junior studying Computer Science
 - 📍 Location: University of Michigan - Ann Arbor
 - 📚 Courses:
@@ -17,4 +17,4 @@
 - 💻 Programming Languages: C/C++, Java, Python, Typescript
 - 🌐 Web Development: HTML, CSS, React/Next.js
 - 📊 Database Familiarity: SQL, MongoDB
-- 🚀 Personal Interests: Soccer, Rubik's Cubes, Piano
+- 🚀 Personal Interests: Soccer, Rubik's Cubes, Piano, Harry Potter
