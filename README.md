@@ -7,10 +7,12 @@
 - 📍 Location: University of Michigan - Ann Arbor
 - 📚 Courses:
   - EECS 281 - Data Structures & Algorithms
-  - EECS 484 - Database Management Systems
-  - EECS 485 - Web Systems
   - EECS 370 - Computer Architecture
   - EECS 376 - Computer Science Theory
+  - EECS 481 - Software Engineering
+  - EECS 484 - Database Management Systems
+  - EECS 485 - Web Systems
+  - EECS 497 - Human Centered Software
 
 ### Interests and Skills
 
