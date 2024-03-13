@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 👨‍💻 Experience: Current Instructional Aide for EECS280 @ UM, Software Engineering @ SkySpecs - Summer 2023, Technology @ Datavine - Summer 2022
+- 👨‍💻 Experience: Current Instructional Aide for EECS280 @ UM, Incoming Software Engineering Intern @ Asana - Summer 2024, Software Engineering @ SkySpecs - Summer 2023, Technology @ Datavine - Summer 2022
 - 🎓 Education: Junior studying Computer Science
 - 📍 Location: University of Michigan - Ann Arbor
 - 📚 Courses:
