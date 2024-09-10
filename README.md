@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 👨‍💻 **Experience:** Programming & Data Structures Instructional Aide @ UM CoE (F23 - Present), Software Engineering Intern @ Asana (2024), Software Engineering Intern @ SkySpecs (2023)
+- 👨‍💻 **Experience:** Programming & Data Structures Instructional Aide @ UM CoE (F23 - Present), Software Engineering Intern @ Asana (S24), Software Engineering Intern @ SkySpecs (S23)
 - 🎓 **Education:** Senior studying Computer Science
 - 📍 **Location:** University of Michigan - Ann Arbor
 - 📚 **Courses:**
